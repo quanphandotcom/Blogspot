@@ -1,0 +1,66 @@
+/* POST */
+.post-info img {
+    max-width: 100%;
+    padding: 2px;
+}
+.post-view h1, .post-view h3 {
+    font-size: 18px;
+}
+.post-view {
+    padding: 10px;
+}
+#carousel {
+    border: solid 1px #d1d1d1;
+    background: #fff;
+}
+#related_posts {
+    height: auto;
+}
+/* HOME */
+body {
+    background: url(https://www.novaland.com.vn/Data/Sites/1/skins/default/images/prj-bg.png) repeat scroll 0 0 transparent;
+    font-size: 14px;
+    font-family: Arial;
+    color: #444;
+    margin: 0 auto;
+    padding: 0;
+}
+#sidebar h2 {
+    line-height: 36px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    text-transform: uppercase;
+    background-color: #f58220;
+}
+.hello-h-top img {
+    background: #eee;
+    float: left;
+    margin-bottom: 8px;
+    padding: 5px;
+    width: 100%;
+    height: auto;
+}
+.hello-h-right-li li a {
+    color: #005aa6;
+}
+.hello-h-right h2 a {
+    text-decoration: none;
+    text-transform: none;
+    color: #005aa6;
+}
+.hello-h-left h2 a {
+    text-decoration: none;
+    text-transform: none;
+    color: #005aa6;
+}
+.boxtitle2, .boxtitle2 a {
+    background: #f58220;
+    line-height: 28px;
+    float: left;
+    padding-left: 19px;
+    padding-right: 19px;
+    font-weight: bold;
+    color: #fff;
+}
